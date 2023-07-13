@@ -12,3 +12,8 @@ The random forst model is used to assessing slump-prone thawing permafrost.<br>
 3、randomforest\Predict.py: Predict code for random forest. <br>
 
 4、randomforest\modelParameter.pickle: Model parameters for trained radom forest. <br>
+
+### Then inventory of RTSs
+1、RTSs\RTS-QTP.shp: the known RTSs in QTP provided from Luo (source:https://doi.org/10.5281/ zenodo.7309867, accessed on 19 April 2023). <br>
+
+2、RTSs\NewDiscovery.shp: the newly discovered RTSs in QTP observed by our method.<br>
