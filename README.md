@@ -4,7 +4,7 @@ This is the repository for the paper "Satellite radar reveals permafrost thawing
 #### SBAS-InSAR process
 InSAR processing algorithms including ISCE (source: https://github.com/isce-framework/isce2, accessed on 19 April 2023) and MintPy (source: https://github.com/insarlab/MintPy, accessed on 19 April 2023) are open-source and freely available through Github.
 #### HPC-SBAS-InSAR
-
+If you want to run parallel Insar processing algorithms on HPC, you can use the folder HPC-SSAR. You need to place three files (Bach_setinel.sbatch, Sentinel.sbatch, Sentinel_sig.sh) in the same folder. Then run the sbatch sentinel.sbatch script, which is sbatch sentinel.sbatch/work/sentinel/158/158-06/represents a single node to run a Frame's Sentinel-1 data
 ### Random forest model
 The random forst model is used to assessing slump-prone thawing permafrost.<br>
 
