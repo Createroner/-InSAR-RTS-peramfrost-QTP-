@@ -1,7 +1,10 @@
 ## InSAR-RTS-Peramfrost-QTP
-This is the repository for the paper "Nearly 3/4 of permafrost thaw slumps condition worsen in Earth’s Third Pole"
+This is the repository for the paper "Satellite radar reveals permafrost thawing and slumping in the Ti-betan Plateau"
 ### InSAR process
+#### SBAS-InSAR process
 InSAR processing algorithms including ISCE (source: https://github.com/isce-framework/isce2, accessed on 19 April 2023) and MintPy (source: https://github.com/insarlab/MintPy, accessed on 19 April 2023) are open-source and freely available through Github.
+#### HPC-SBAS-InSAR
+
 ### Random forest model
 The random forst model is used to assessing slump-prone thawing permafrost.<br>
 
