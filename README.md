@@ -1,5 +1,5 @@
 ## InSAR-RTS-Peramfrost-QTP
-This is the repository for the paper "Satellite radar reveals permafrost thawing and slumping in the Ti-betan Plateau"
+This is the repository for the paper "Satellite radar reveals nearly 20% permafrost irreversible subsidence in the Qinghai-Tibet Plateau"
 ### InSAR process
 #### SBAS-InSAR process
 InSAR processing algorithms including ISCE (source: https://github.com/isce-framework/isce2, accessed on 24 Jan. 2024) and MintPy (source: https://github.com/insarlab/MintPy, accessed on 24 Jan. 2024) are open-source and freely available through Github.
